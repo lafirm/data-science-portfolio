@@ -7,7 +7,8 @@ For a more visually pleasant experience for browsing the portfolio, check out [l
 
 
 ## Instructions for Running Python Notebooks
-1. Run notebooks as usual by using Anaconda - Jupyter Notebook Server, Google Colab etc.
+1. Run notebooks locally on your machine by using Jupyter Notebook Server, [click here](https://docs.jupyter.org/en/latest/running.html) for more details.
+2. To easily run our notebooks without any installations on our local machine, we can use cloud services like Binder, Google Colab, Kaggle etc., [click here](https://www.dataschool.io/cloud-services-for-jupyter-notebook/) for more details.
 
 ## Contents
 
@@ -24,6 +25,13 @@ For a more visually pleasant experience for browsing the portfolio, check out [l
     - [Retail Store Analysis](https://github.com/lafirm/retail-store-analysis): Exploratory data analysis of the stores operating in the U.S using Pandas, Seaborn for visualization.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
+
+- ### Web Scraping
+  - __Python__
+    - [YouTube Trending Videos Scraping](https://github.com/lafirm/youtube-trending-videos-scraper): Periodical scraping of Top 10 trending videos on YouTube using Selenium and AWS Lambda.
+    - [Github Top Repositories Scraping](https://github.com/lafirm/github-top-repos-scraping): Scraping of Top 30 repositories for each topic on Github using BeautifulSoup and requests library.
+		
+	_Tools: BeautifulSoup, Selenium, AWS Lambda_
 
 - ### SQL
 
