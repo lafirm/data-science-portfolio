@@ -52,7 +52,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [l
 
 I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/lafirm/general-portfolio).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at lafirmm@yahoo.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, message me [@lafirm](https://www.linkedin.com/in/lafir).
 
 ### Support My Work
 
