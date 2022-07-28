@@ -28,7 +28,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [l
 
 - ### Web Scraping
   - __Python__
-    - [YouTube Trending Videos Scraping](https://github.com/lafirm/youtube-trending-videos-scraper): Periodical scraping of Top 10 trending videos on YouTube using Selenium and AWS Lambda.
+    - [YouTube Trending Videos Scraping](https://github.com/lafirm/youtube-trending-videos-scraper): Periodical scraping of Top 10 trending videos on YouTube using Selenium and Github Actions with CRON jobs.
     - [Github Top Repositories Scraping](https://github.com/lafirm/github-top-repos-scraping): Scraping of Top 30 repositories for each topic on Github using BeautifulSoup and requests library.
 		
 	_Tools: BeautifulSoup, Selenium, AWS Lambda_
