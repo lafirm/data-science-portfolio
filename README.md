@@ -17,6 +17,10 @@ For a more visually pleasant experience for browsing the portfolio, check out [l
 	- [Walmart Weekly Sales Prediction Model](https://github.com/lafirm/walmart-weekly-sales-prediction): A model to predict the department-wide weekly sales for each Walmart store using various statistical analysis tools. Identified the best sales amount of a walmart store utilizing machine learning.
 	
 	_Tools: Scikit-Learn, Pandas, Seaborn, Matplotlib_
+	
+	- [Bengaluru House Price Prediction Model](https://github.com/lafirm/bengaluru-house-price): A model trained to predict the Bengaluru real estate price using Scikit-Learn and deployed on Heroku [(blrhouseprice.herokuapp.com)](https://blrhouseprice.herokuapp.com/) using Docker and Github Actions.
+	
+	_Tools: Scikit-Learn, Pandas, Numpy, Docker, Heroku_
 
 
 - ### Data Analysis and Visualisation
